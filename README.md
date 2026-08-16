@@ -49,21 +49,6 @@ news sources, cross-checked across multiple outlets. Current as of the
   titles, most successful leadership record) rather than raw batting
   numbers
 
-## 🚀 Setup
-
-Want to run this yourself or fork it?
-
-1. Clone or download this repo
-2. Open `index.html` directly in any browser — that's it, no server needed
-
-### Enabling GitHub Pages (to get a live link)
-
-1. Go to your repo's **Settings → Pages**
-2. Under "Build and deployment", set **Source** to `Deploy from a branch`
-3. Pick the `main` branch and `/ (root)` folder, then **Save**
-4. Your dashboard will be live at `https://YOUR-USERNAME.github.io/REPO-NAME/`
-   within a minute or two
-
 ## 📄 License / Attribution
 
 This is a personal/academic project. Player photos and team logos were
