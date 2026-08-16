@@ -4,12 +4,7 @@ An interactive, single-file dashboard covering all-time IPL batting and bowling
 records, franchise trophies, fan following, and a "GOAT Corner" — built with
 plain HTML, CSS, and JavaScript. No frameworks, no build step, no dependencies.
 
-🔗 **Live demo:** https://YOUR-USERNAME.github.io/ipl-stats-dashboard/
-
-*(Replace `YOUR-USERNAME` above with your actual GitHub username once GitHub
-Pages is enabled — see [Setup](#setup) below.)*
-
----
+🔗 **Live demo:** https://nandhar0701.github.io/IPL-DASHBOARD/
 
 ## ✨ Features
 
